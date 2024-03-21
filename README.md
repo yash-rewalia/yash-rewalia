@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar</h1>
-<h3 align="center">A passionate data enthusiastic
+<h3 align="center">A passionate data enthusiast
  from India</h3>
 
 - 🌱 I’m currently learning **data science**
