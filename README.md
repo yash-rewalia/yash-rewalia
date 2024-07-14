@@ -59,9 +59,11 @@
   <code> <img height="50" src="https://banner2.cleanpng.com/20180721/goa/kisspng-microsoft-excel-spreadsheet-microsoft-powerpoint-c-alagoas-5b531b2fe89ae2.6018856215321731039528.jpg"> </code>
   <code> <img height="50" src="https://static.vecteezy.com/system/resources/thumbnails/000/143/608/small/linear-icons-with-charts-and-statistics.jpg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://w7.pngwing.com/pngs/968/991/png-transparent-google-colab-logo-tech-companies.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   
 
 
