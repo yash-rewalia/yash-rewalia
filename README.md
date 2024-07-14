@@ -16,8 +16,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Yash Kumar </h1>
 <h3 align="center">Aspiring Data Scientist </h3>
 <p align="center">
-<a href="https://www.hackerrank.com/profile/learndsyashrewa1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yash-kumar-01573a153/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.hackerrank.com/profile/learndsyashrewa1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_yash" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-kumar-01573a153/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="lin_yash" height="30" width="40" /></a>  
  <a href = "mailto: yash.krewalia@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
