@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://as1.ftcdn.net/v2/jpg/07/34/52/44/1000_F_734524462_a4Mv7YvVo5jSDdh8SvFXcotRrsqwJJvO.jpg" height="200"/>
 </p>
 <br>
 
@@ -56,8 +56,8 @@
   <code> <img height="50" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"> </code>
   <code> <img height="50" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000"> </code>
-  <code> <img height="50" src="https://static.vecteezy.com/system/resources/thumbnails/000/143/608/small/linear-icons-with-charts-and-statistics.jpg"> </code>
   <code> <img height="50" src="https://banner2.cleanpng.com/20180721/goa/kisspng-microsoft-excel-spreadsheet-microsoft-powerpoint-c-alagoas-5b531b2fe89ae2.6018856215321731039528.jpg"> </code>
+  <code> <img height="50" src="https://static.vecteezy.com/system/resources/thumbnails/000/143/608/small/linear-icons-with-charts-and-statistics.jpg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
