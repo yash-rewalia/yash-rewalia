@@ -26,7 +26,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Yash Kumar a <b>final year</b> undergraduate from <a href="http://www.ipu.ac.in/"> <b>Guru Gobind Singh Indraprastha University</b>, India </a>. <br>
+    Hello, I am Yash Kumar </b> graduated from <a href="http://www.ipu.ac.in/"> <b>Guru Gobind Singh Indraprastha University</b>, India </a>. <br>
     <b>a passionate learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Robotics Engineer Transitioning into Data Science</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
