@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=YashKumar&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-27-blue" />
+<img src="https://img.shields.io/badge/Age-28-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Delhi-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
@@ -69,4 +69,4 @@
 -----
 Credits: [Yash Kumar]([https://github.com/yash-rewalia])
 
-Last Edited on: 14/07/2024
+Last Edited on: 01/08/2024
