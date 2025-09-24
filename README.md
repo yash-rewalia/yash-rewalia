@@ -52,6 +52,7 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
 
+  <code> <img height="50" src="[https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flangchain-ai.github.io%2Flanggraph%2F&psig=AOvVaw1Zf36rsOo3loRJj67HKGt_&ust=1758818498766000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjrn5ft8Y8DFQAAAAAdAAAAABAE)"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> </code>
