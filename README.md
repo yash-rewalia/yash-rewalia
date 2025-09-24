@@ -14,7 +14,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Yash Kumar </h1>
-<h3 align="center">Aspiring Data Scientist </h3>
+<h3 align="center">Data Scientist | AI Developer | AI/ ML Engineer | Robotics Engineer</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/profile/learndsyashrewa1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_yash" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yash-kumar-01573a153/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="lin_yash" height="30" width="40" /></a>  
@@ -26,23 +26,27 @@
 
 <p align="center">
   <em>
-    Hello, I am Yash Kumar </b> graduated from <a href="http://www.ipu.ac.in/"> <b>Guru Gobind Singh Indraprastha University</b>, India </a>. <br>
-    <b>a passionate learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Robotics Engineer Transitioning into Data Science</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    Hello, I’m <b>Yash Kumar</b>, a graduate of <a href="http://www.ipu.ac.in/"> <b>Guru Gobind Singh Indraprastha University</b>, India</a>. <br>
+    I design and build <b>AI-driven systems</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> across <b>Data Science, Computer Vision, and Generative AI</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;<br>
+    Always exploring ways to transform <b>data into intelligence</b> and create solutions that drive impact.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "There is always a better way!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> 
+  <b><i align="center">"There is always a better way!”</i></b> 
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
+
 <br><br>
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Skilled in building **AI/ML solutions** with expertise in NLP, RAG, and Computer Vision. <br>
+✔ Currently working on **production-grade GenAI and Data Science projects**. <br>
+✔ Open to collaborating on impactful **open-source AI/ML initiatives**. <br>
+✔ Always curious and exploring **new technologies, research, and frameworks**. <br>
+✔ Fun fact: I believe learning sticks best when you connect it to real-world challenges 😎<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
