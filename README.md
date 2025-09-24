@@ -51,7 +51,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
-  <code> <img height="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" </code>
+  <code> <img height="500" src="https://images.seeklogo.com/logo-png/52/3/langchain-logo-png_seeklogo-528369.png" </code>
   <code> <img height="50" src="https://images.seeklogo.com/logo-png/61/1/langchain-logo-png_seeklogo-611654.png" </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"> </code>
